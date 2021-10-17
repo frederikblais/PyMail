@@ -1,0 +1,4 @@
+"""\
+Subject: Hi there
+
+This message is sent from Python."""
